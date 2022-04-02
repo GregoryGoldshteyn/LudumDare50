@@ -58,6 +58,6 @@ namespace Constants {
                 debugShowStaticBody: false
             }
         },
-        scene: [GameScene.DomTesting]
+        scene: [GameScene.MainMenu]
     };
 }

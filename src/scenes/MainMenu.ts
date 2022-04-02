@@ -4,5 +4,17 @@ namespace GameScene {
         constructor(sceneName: string) {
             super(sceneName);
         }
+
+        preload() {
+
+        }
+
+        create() {
+
+        }
+
+        update() {
+            
+        }
     }
 }

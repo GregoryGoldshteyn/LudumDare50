@@ -8,7 +8,7 @@ namespace Game {
             );
 
             //this.scene.start(Constants.TUTORIAL_SCENE_NAME);
-            this.scene.start(Constants.DOM_TEST_SCENE_NAME);
+            this.scene.start(Constants.MAIN_MENU_SCENE_NAME);
         }
     }
 }
